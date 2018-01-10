@@ -1,6 +1,5 @@
 先调用api删掉不要的镜像 tag    
 然后运行这个脚本     
 另外多说一句     registry garbage-collect /etc/docker/registry/config.yml
-
-
 这个命令没什么卵用     
+#注意 删除前请先备份，谨慎操作    
